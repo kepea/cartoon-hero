@@ -1,0 +1,73 @@
+	font-family: helvetica , arial;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header {
+    background-color: mediumblue;
+    text-align: center;
+    padding-top: 20px;
+    /* padding-bottom: 0px; */
+    border: 50px solid white;
+}
+H1,H2{
+	font-family: 'Press Start 2P', cursive;
+}
+
+header h1{
+	color:white ;
+	font-size: 30PX;
+}
+
+header img{
+	border-radius: 50px;
+	width: 150px;
+	border: 10px solid yellow;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;	
+	padding: 20px; 
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 28px;
+	color: yellow;
+	margin: 40px 0 10px
+
+}
+
+a{
+	color: mediumblue;
+}
+a:hover{
+	background-color: mediumblue;
+	color: white;
+}
+
+footer{
+	background-color: mediumblue;
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: white;
+}
+
+p.caption{
+	color: #99999999;
+	font-style: italic;
+	margin-top: 0;
+}
+
